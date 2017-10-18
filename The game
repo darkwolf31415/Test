@@ -1,0 +1,2 @@
+def game():
+    UserInput = [input('Enter choice here')]
